@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  background-color: black;
+}
+#container {
+  justify-items: center;
+  display: grid;
+}
+
+#jtf {
+  padding: 30px;
+  color: rgb(9, 9, 9);
+}
+#heaf {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  background: linear-gradient(155deg, #00fffc, #eee);
+}
+div h {
+  color: rgb(255, 25, 0);
+}
+#fxo {
+  font-size: 20px;
+  padding: 20px;
+}
+.primary {
+  display: inline-grid;
+}
+#inputfield,
+#btn,
+#joke {
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: white;
+  border-color: transparent;
+}
+.hez {
+  padding: 20px;
+}
+#joke {
+  margin-left: 20px;
+}
